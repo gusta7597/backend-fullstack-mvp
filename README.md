@@ -1,6 +1,6 @@
-# 🐍 Backend Flask - Instruções de Uso
+# 🐍 Backend Sprint: Desenvolvimento Full Stack Básico - Instruções de Uso
 
-Este projeto é um backend simples para o MVP da primeira sprint de fullstack usando **Flask** em Python.
+Este projeto é um backend para o MVP da primeira sprint de fullstack basico da PUCRJ usando **Flask** em Python.
 
 ## 📦 Requisitos
 
