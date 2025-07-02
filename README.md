@@ -1,4 +1,4 @@
-# 🐍 Backend Sprint: Desenvolvimento Full Stack Básico - Instruções de Uso
+# Backend Sprint 1: Desenvolvimento Full Stack Básico - Instruções de Uso
 
 Este projeto é um backend para o MVP da primeira sprint de fullstack basico da PUCRJ usando **Flask** em Python.
 
@@ -11,8 +11,8 @@ Este projeto é um backend para o MVP da primeira sprint de fullstack basico da 
 ### 1. Clone o repositório (caso ainda não tenha feito isso)
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/gusta7597/backend-fullstack-mvp.git
+cd backend-fullstack-mvp
 ```
 ### 2. Caso precise crie um virtual enviroment (É recomendado)
 
@@ -40,4 +40,4 @@ python app.py
 flask run --host 0.0.0.0 --port 5000
 ```
 
-### Após isso o ambiente estará rodando no link http://localhost:5000
+### Após isso o ambiente estará rodando no link **http://localhost:5000**, caso deseje a documentação do swagger estará no **http://localhost:5000/openapi/swagger#/**
